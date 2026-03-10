@@ -1,0 +1,7 @@
+bin/
+dist/
+packages/
+*.tlpkg
+api_response.json
+server.txt
+trainlurgy_server.conf
